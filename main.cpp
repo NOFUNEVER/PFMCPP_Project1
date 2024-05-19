@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        car
+//  action 1:    the car idles
+car.idles();
+//  action 2:    the car accelerates
+car.accelerate();
+//  action 3:    the car turns left
+car.turnLeft(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat purrs
+cat.purr();
+//  action 2:    the cat meows
+cat.meow();
+//  action 3:    the cat sleeps
+cat.sleep();
 //  3)
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog wags it's tail
+dog.wagTail();
+//  action 3:    the dog runs
+dog.run();
+//  4)           falcon
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  action 1:    the falcon soars
+falcon.soar();
+//  action 2:    the falcon dives
+falcon.dive();
+//  action 3:    the falcon flaps it's wings
+falcon.flapWings();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        lighter    
+//  action 1:    the lighter ignites
+lighter.ignite(); 
+//  action 2:    consumes fuel
+lighter.consumesFuel();
+//  action 3:    creates heat
+lighter.createsHeat();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        controller
+//  action 1:    the controller registers an press
+controller.registerInput();
+//  action 2:    the controller registers a release
+controller.registerRelease();
+//  action 3:    the controller registers a pressure level
+controller.registerPressureLevel();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        amplifier 
+//  action 1:    sends a signal to speaker
+amplifier.sendsSignal();
+//  action 2:    lowers volume
+amplifier.decreaseAmplitude();
+//  action 3:    increase volume
+amplifier.increaseAmplitude();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        river 
+//  action 1:    the river flows faster
+river.flowIncrease();
+//  action 2:    the river's level rises
+river.levelIncrease();
+//  action 3:    erodes the banks
+river.erodesBanks();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        mouse
+//  action 1:    register click
+mouse.registerClick();
+//  action 2:    track motion
+mouse.trackMotion();
+//  action 3:    illuminate desk
+mouse.illuminateDesk();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bear
+//  action 1:    the bear growls
+bear.growl();
+//  action 2:    the bear hunts
+bear.hunt();
+//  action 3:    the bear eats
+bear.eat();
 
 
 #endif
