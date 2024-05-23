@@ -100,13 +100,13 @@ controller.registerRelease();
 //  action 3:    the controller registers a pressure level
 controller.registerPressureLevel();
 //  7)
-//  Noun:        amplifier 
-//  action 1:    sends a signal to speaker
-amplifier.sendsSignal();
-//  action 2:    lowers volume
-amplifier.decreaseAmplitude();
-//  action 3:    increase volume
-amplifier.increaseAmplitude();
+//  Noun:        lawnMower     
+//  action 1:    turns blade
+lawnMower.turnsBlade();
+//  action 2:    collect mulch
+lawnMower.collectMulch();
+//  action 3:   self propels
+lawnMower.rotatesFrontWheels();
 //  8)
 //  Noun:        river 
 //  action 1:    the river flows faster
